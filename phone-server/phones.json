@@ -1,22 +1,10 @@
 {
   "phones": [
     {
-      "id": "p48t509RDdM",
-      "name": "ฟไกฟไกไฟก",
-      "sect": "CED",
-      "tel": "ไฟฟไกฟไก"
-    },
-    {
-      "id": "jonLRY8f6T0",
-      "name": "เ่้เ่้เ้เ่เั",
-      "sect": "CED",
-      "tel": "เั่เั่เั่"
-    },
-    {
-      "id": "gp-GmS3y5HI",
-      "name": "อืทมอืื",
+      "id": "Hugd_J3Kvu8",
+      "name": "ไกฟไกฟไ",
       "sect": "TCT",
-      "tel": "อืมอืทมอื"
+      "tel": "กฟไก"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
